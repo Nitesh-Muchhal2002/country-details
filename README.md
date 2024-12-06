@@ -18,4 +18,4 @@ The **Country Parcel Project** is a web app that provides details about countrie
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/country-parcel.git
+  https://github.com/Nitesh-Muchhal2002/country-details.git
